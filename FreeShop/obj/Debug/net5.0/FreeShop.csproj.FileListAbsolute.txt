@@ -1,0 +1,16 @@
+C:\Users\mateu\source\repos\Teste1\FreeShop\bin\Debug\net5.0\FreeShop.exe
+C:\Users\mateu\source\repos\Teste1\FreeShop\bin\Debug\net5.0\FreeShop.deps.json
+C:\Users\mateu\source\repos\Teste1\FreeShop\bin\Debug\net5.0\FreeShop.runtimeconfig.json
+C:\Users\mateu\source\repos\Teste1\FreeShop\bin\Debug\net5.0\FreeShop.runtimeconfig.dev.json
+C:\Users\mateu\source\repos\Teste1\FreeShop\bin\Debug\net5.0\FreeShop.dll
+C:\Users\mateu\source\repos\Teste1\FreeShop\bin\Debug\net5.0\ref\FreeShop.dll
+C:\Users\mateu\source\repos\Teste1\FreeShop\bin\Debug\net5.0\FreeShop.pdb
+C:\Users\mateu\source\repos\Teste1\FreeShop\obj\Debug\net5.0\FreeShop.csproj.AssemblyReference.cache
+C:\Users\mateu\source\repos\Teste1\FreeShop\obj\Debug\net5.0\FreeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\source\repos\Teste1\FreeShop\obj\Debug\net5.0\FreeShop.AssemblyInfoInputs.cache
+C:\Users\mateu\source\repos\Teste1\FreeShop\obj\Debug\net5.0\FreeShop.AssemblyInfo.cs
+C:\Users\mateu\source\repos\Teste1\FreeShop\obj\Debug\net5.0\FreeShop.csproj.CoreCompileInputs.cache
+C:\Users\mateu\source\repos\Teste1\FreeShop\obj\Debug\net5.0\FreeShop.dll
+C:\Users\mateu\source\repos\Teste1\FreeShop\obj\Debug\net5.0\ref\FreeShop.dll
+C:\Users\mateu\source\repos\Teste1\FreeShop\obj\Debug\net5.0\FreeShop.pdb
+C:\Users\mateu\source\repos\Teste1\FreeShop\obj\Debug\net5.0\FreeShop.genruntimeconfig.cache
